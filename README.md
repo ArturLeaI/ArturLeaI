@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-leal-352a02209/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLeaI&layout=pie)](https://github.com/ArturLeaI/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLeaI&layout=donut)](https://github.com/ArturLeaI/github-readme-stats)
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
