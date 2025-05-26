@@ -7,5 +7,9 @@
 
 ## Tecnologias
 <div style="display: inline_block">
-  <img align="center"  alt = "javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center"  alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
+
+<div style="display: inline_block">
+  <img align="center"  alt = "TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black">
 </div>
