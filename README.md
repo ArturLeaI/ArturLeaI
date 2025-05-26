@@ -3,12 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-leal-352a02209/)
 
-<a href="https://github.com/ArturLeaI/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArturLeaI&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ArturLeaI/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLeaI&layout=pie)](https://github.com/ArturLeaI/github-readme-stats)
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
